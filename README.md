@@ -117,10 +117,10 @@ The company faces multiple challenges in managing:
 | GitHub | Version control & portfolio hosting |
 
 ## Project Components  
-1. Google Colab Notebook – (https://colab.research.google.com/drive/1BI8S0hnayusp7L4fnWs_nrdTcwJR_dWu)  
+1. Google Colab Notebook – (https://colab.research.google.com/drive/1LbLRC6fm6lQOKSHE44RCHDqqP3ugIPwA?usp=drive_link)  
 2. Power BI Dashboard (PPT Preview) – E-COMMERCE REPORT PRESENTATION.pptx  
 3. Problem Statement Document – Problem Statement.pdf  
-4. Video Presentation – https://drive.google.com/file/d/1aeCs0WmzPHO6zp1GvZUogajhYNfgON-g/view?usp=drivesdk
+4. Video Presentation – (https://drive.google.com/file/d/1kwvDTH-GzbrC7G2YIu3SVd_0purWHCbo/view?usp=drive_link)
 5. Power BI file - E-Commerce Sales Dashboard
 
 ## Project Outcomes  
